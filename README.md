@@ -18,7 +18,7 @@ Cada posição do tabuleiro pode representar:
 
 Como o projeto não possui uma interface gráfica, a escolha de uma posição é realizada informando a **linha e a coluna** desejadas.
 
-## ⚙️ Funcionamento
+## Funcionamento
 
 Ao iniciar o jogo, o programa:
 
@@ -86,7 +86,3 @@ O jogador vence quando todas as **71 posições que não possuem minas** forem r
 
 Este projeto foi desenvolvido como trabalho acadêmico para praticar conceitos de programação em linguagem C e implementar a lógica do jogo Campo Minado a partir de uma matriz bidimensional.
 O trabalho propõe a utilização de uma matriz `9x9`, contendo 10 minas distribuídas aleatoriamente, além da implementação das funções responsáveis pela inicialização do tabuleiro, exibição das informações e processamento das jogadas.
-
-## 👨‍💻 Autor
-
-Desenvolvido como projeto acadêmico em linguagem C.
